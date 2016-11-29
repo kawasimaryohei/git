@@ -1,0 +1,7 @@
+git clone https://github.com/kawasimaryohei/git
+最新のデータを取得する
+
+git push 
+
+git add
+カレントディレクトリ以下をステージング領域に追加
