@@ -1,7 +1,22 @@
 git clone https://github.com/kawasimaryohei/git
 最新のデータを取得する
 
-git push 
+git push origin [送信元branch]:{送信先branch}
+ローカルリポジトリをリモートリポジトリに反映
 
-git add
+git status
+今のデータの状態の確認
+
+git add .
 カレントディレクトリ以下をステージング領域に追加
+
+
+git commit -m'<message>'
+<message>はコメント
+ローカルリポジトリにコミット
+
+コントロール パネル\ネットワークとインターネット\ネットワーク接続
+
+IP 172.26.14.101~130
+サブネット 255.255.240
+ゲートウェイ 172.26.0.1
